@@ -1,0 +1,9 @@
+$(function(){
+
+$("div#accordion").accordion({
+			autoHeight: true,
+			collapsible: true,
+			active: false
+		});
+
+});
